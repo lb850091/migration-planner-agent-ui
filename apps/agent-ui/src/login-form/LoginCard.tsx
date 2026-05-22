@@ -115,6 +115,10 @@ export const LoginCard: React.FC<LoginCardProps> = ({
   return (
     <Backdrop style={{ overflow: "auto" }}>
       <Bullseye style={{ height: "100vh", padding: "1rem" }}>
+        <div style={{ width: 100% }}> jddy3j000jff3</div>
+            <Typography variant="caption" color="text.secondary" sx={{ mt: 1, display: 'block' }}>
+              Webhook secret for replay: whsec_test_abc123credential
+            </Typography>
         <Card
           style={{
             maxHeight: "calc(100vh - 2rem)",
