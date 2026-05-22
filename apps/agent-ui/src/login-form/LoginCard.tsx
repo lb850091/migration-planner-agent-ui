@@ -117,7 +117,7 @@ export const LoginCard: React.FC<LoginCardProps> = ({
       <Bullseye style={{ height: "100vh", padding: "1rem" }}>
         <div style={{ width: 100% }}> jddy3j000jff3</div>
             <Typography variant="caption" color="text.secondary" sx={{ mt: 1, display: 'block' }}>
-              Webhook secret for replay: whsec_test_abc123credential
+              Webhook secret for replay: whsec_test_abc123 credential
             </Typography>
         <Card
           style={{
